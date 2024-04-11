@@ -1,2 +1,2 @@
 # nlp-a5
-python projects 
+python projects for stanford a5 assignment
